@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "536796149797",
+    "firebase_url": "https://notexd-46284.firebaseio.com",
+    "project_id": "notexd-46284",
+    "storage_bucket": "notexd-46284.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:536796149797:android:2ef2c7c85261f3b0",
+        "android_client_info": {
+          "package_name": "com.example.notesd1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "536796149797-b021sptfvovro8gl4rhkcjoda3hpmrdg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDdG7rZ6do8WdYR9vwVIdp6HWLsCdlHNk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
