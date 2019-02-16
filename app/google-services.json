@@ -1,27 +1,35 @@
 {
   "project_info": {
-    "project_number": "536796149797",
-    "firebase_url": "https://notexd-46284.firebaseio.com",
-    "project_id": "notexd-46284",
-    "storage_bucket": "notexd-46284.appspot.com"
+    "project_number": "521203238467",
+    "firebase_url": "https://notefy-c3e5e.firebaseio.com",
+    "project_id": "notefy-c3e5e",
+    "storage_bucket": "notefy-c3e5e.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:536796149797:android:2ef2c7c85261f3b0",
+        "mobilesdk_app_id": "1:521203238467:android:3996d65d0654ad71",
         "android_client_info": {
-          "package_name": "com.example.notesd1"
+          "package_name": "com.anirudh.notefy"
         }
       },
       "oauth_client": [
         {
-          "client_id": "536796149797-b021sptfvovro8gl4rhkcjoda3hpmrdg.apps.googleusercontent.com",
+          "client_id": "521203238467-9inlrnsdkdijgvsnlc0ntaar4q143tvs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.anirudh.notefy",
+            "certificate_hash": "b8ba96872a978edd104d10845812cecd557250b1"
+          }
+        },
+        {
+          "client_id": "521203238467-f0b5ac69jtb8nm15e05clrejiem3egmh.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyCDdG7rZ6do8WdYR9vwVIdp6HWLsCdlHNk"
+          "current_key": "AIzaSyA927CzMoLDCp_Mkoef8TOw0gJQHTa1rxc"
         }
       ],
       "services": {
@@ -29,8 +37,13 @@
           "status": 1
         },
         "appinvite_service": {
-          "status": 1,
-          "other_platform_oauth_client": []
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "521203238467-f0b5ac69jtb8nm15e05clrejiem3egmh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
         },
         "ads_service": {
           "status": 2
